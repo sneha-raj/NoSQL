@@ -5,7 +5,7 @@ This repo contains my experiments with MongoDB :seedling:. The fundamentals, the
 
 
 ## :gift: Python Packages
-* Pandas 
-* Numpy :1234:
-* Plotly :bar_chart:
+* :panda_face: Pandas 
+* :1234: Numpy 
+* :bar_chart: Plotly 
 
