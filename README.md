@@ -4,7 +4,8 @@ This repo contains my experiments with MongoDB :seedling:. The fundamentals, the
 * Handling sub-documents
 
 
-## :gift: Packages
+## :gift: Python Packages
 * Pandas 
-* Numpy
+* Numpy :1234:
 * Plotly :bar_chart:
+
